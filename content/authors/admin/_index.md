@@ -17,13 +17,13 @@ social:
     link: uploads/resume.pdf
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fab
     icon: goodreads
     link: https://www.goodreads.com/user/show/52604315-ranjani-narayanan
   - display:
       header: false
     link: https://twitter.com/ranjn2
-    icon_pack: far
+    icon_pack: fab
     icon: twitter
 organizations:
   - name: Georgia Institute of Technology
