@@ -2,8 +2,8 @@
 title: Ranjani Narayanan
 role: PhD candidate, Electrical and Computer Engineering
 avatar_filename: smallprofile.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Human-AI interaction, AI in Decision Making,
+  Robotics.
 interests: []
 social:
   - icon: graduation-cap
@@ -15,6 +15,16 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - display:
+      header: false
+    icon_pack: far
+    icon: goodreads
+    link: https://www.goodreads.com/user/show/52604315-ranjani-narayanan
+  - display:
+      header: false
+    link: https://twitter.com/ranjn2
+    icon_pack: far
+    icon: twitter
 organizations:
   - name: Georgia Institute of Technology
     url: https://www.gatech.edu/
