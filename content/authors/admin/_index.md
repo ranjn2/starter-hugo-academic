@@ -1,7 +1,7 @@
 ---
 title: Ranjani Narayanan
 role: PhD candidate, Electrical and Computer Engineering
-avatar_filename: smallprofile.jpg
+avatar_filename: profile.png
 bio: My research interests include Human-AI interaction, AI in Decision Making,
   Robotics.
 interests: []
